@@ -14,3 +14,6 @@ Here are some ideas to get you started:
    only for educational purposes
 
    contact : ig/rolv4rn
+
+
+TR: ilk olarak first.py dosyasını çalıştırın. C:\ dizininde ROLVARN adlı bir klasör oluşturacak ve bu klasör açılacak orada rolvarn_rvshell.py dosyası olacak. Dosyayı her zaman oradan çalıştırın aksi taktirde tool düzgün çalışmayacaktır. Bunun böyle olmasının sebebi windowsta onedrive dosyalarının sıkıntı çıkarması. keyifli kullanmalar.
