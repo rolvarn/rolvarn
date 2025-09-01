@@ -1,16 +1,16 @@
-## Hi there 👋
+## read this
 
-<!--
-**rolvarn/rolvarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+detail youtube video: https://youtu.be/pXyALiCAw38
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. download python
+2. download pip
+3. download pyinstaller and colorama
+4. pip install -r requirements.txt
+5. python first.py
+6. python rolvarn_rvshell.py
+
+   only for educational purposes
+
+   contact : ig/rolv4rn
